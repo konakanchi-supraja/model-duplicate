@@ -1,0 +1,12 @@
+body {
+    background: #fff;
+    color: #333;
+    font-family: Lato;
+}
+div {
+    background-color: khaki;
+    color: lightcoral;
+    margin: auto;
+    align-items: center;
+    justify-items: center;
+}
